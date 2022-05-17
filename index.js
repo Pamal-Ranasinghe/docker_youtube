@@ -6,7 +6,7 @@ var port = 3000;
 
 app.get('/', (req,res) => {
 
-    res.send("Hello word");
+    res.send("Hello word two");
 })
 
 app.listen(port, function(){
